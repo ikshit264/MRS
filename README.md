@@ -2,6 +2,9 @@
 
 This project is a **Movie Recommender System** built using Python, Streamlit, and a pre-trained model based on movie similarity. It suggests movies based on a user's selected movie and shows the recommendation with a visual indicator for similarity scores.
 
+## Link
+https://mrsiyt.streamlit.app/
+
 ## Table of Contents
 
 - [Installation](#installation)
